@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>News Aggregator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>📰 News Aggregator</h1>
+      <p>Select a category or search for the latest news:</p>
+    </header>
+
+    <!-- Search bar for keywords -->
+    <section id="search-section">
+      <input type="text" id="search-input" placeholder="Search news..." />
+      <button id="search-btn">Search</button>
+    </section>
+
+    <section id="category-section">
+      <button class="category-btn" data-category="technology">
+        Technology
+      </button>
+      <button class="category-btn" data-category="sports">Sports</button>
+      <button class="category-btn" data-category="politics">Politics</button>
+      <button class="category-btn" data-category="entertainment">
+        Entertainment
+      </button>
+      <button class="category-btn" data-category="business">Business</button>
+    </section>
+
+    <section id="news-section">
+      <!-- News articles will be dynamically displayed here -->
+    </section>
+
+    <script src="script.js"></script>
+  </body>
+</html>
