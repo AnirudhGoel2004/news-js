@@ -32,3 +32,11 @@
 3. Replace the `apiKey` in `script.js` with your NewsAPI key. You can obtain your free API key from [NewsAPI](https://newsapi.org/register).
 
 4. Open the `index.html` file in your browser.
+
+## 🖼️ Screenshots
+<img width="553" alt="Screenshot 2024-09-21 at 7 33 53 PM" src="https://github.com/user-attachments/assets/2b50280d-c8b7-441e-8daa-64294fcf5954">
+
+<img width="515" alt="Screenshot 2024-09-21 at 7 34 08 PM" src="https://github.com/user-attachments/assets/89b5b178-261c-4b92-aaa9-c9f1b3df22e1">
+
+
+
